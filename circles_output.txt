@@ -1,0 +1,1 @@
+ The length of circle is : 4The area of circle is : 50.24 The perimeter of circle is : 25.12 The length of circle is : 5The area of circle is : 78.5 The perimeter of circle is : 31.400000000000002 The length of circle is : 6The area of circle is : 113.03999999999999 The perimeter of circle is : 37.68
